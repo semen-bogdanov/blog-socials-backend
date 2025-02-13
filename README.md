@@ -2,6 +2,7 @@
 
 Стек: MERN
 
+### Фронтенд: https://github.com/semen-bogdanov/blog-socials
 ### Бэкенд:
 
 - express
