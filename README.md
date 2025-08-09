@@ -3,7 +3,7 @@
 Стек: MERN
 
 ### Фронтенд: https://github.com/semen-bogdanov/blog-socials
-### Бэкенд:
+### Backend:
 
 - express
 - база данных Mongo DB
